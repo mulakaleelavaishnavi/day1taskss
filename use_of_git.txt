@@ -1,0 +1,11 @@
+Use of Git
+
+Git is mainly used for:
+1. Tracking changes in code
+2. Maintaining version history
+3. Collaborating with multiple developers
+4. Restoring previous versions if errors occur
+5. Managing different versions using branches
+
+Conclusion:
+Git helps in efficient project management and teamwork in software development.

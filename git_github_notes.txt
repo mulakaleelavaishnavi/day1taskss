@@ -1,0 +1,21 @@
+Git and GitHub – Notes
+
+What is Git?
+Git is a version control system used to track changes in code or files. It helps developers manage and keep history of their work.
+
+What is GitHub?
+GitHub is a web platform that uses Git to store and share code online. It allows multiple people to work on the same project.
+
+Uses of Git:
+- Track changes
+- Backup code
+- Collaboration
+- Version control
+- Branching
+
+Uses of GitHub:
+- Store projects online
+- Share code
+- Collaborate with team members
+- Showcase projects
+- Contribute to open-source projects
